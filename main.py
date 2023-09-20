@@ -4,8 +4,8 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 
-# Enter the filename for the xml file here:
-filename = 'iTunes Music Library (1).xml'
+# Enter the filename for the xml file here (the below is an example):
+filename = 'iTunes Music Library.xml'
 
 
 
